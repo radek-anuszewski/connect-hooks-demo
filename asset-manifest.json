@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/connect-hooks-demo/static/css/main.56bfc3b2.chunk.css",
+    "main.js": "/connect-hooks-demo/static/js/main.aa0febbd.chunk.js",
+    "main.js.map": "/connect-hooks-demo/static/js/main.aa0febbd.chunk.js.map",
+    "runtime-main.js": "/connect-hooks-demo/static/js/runtime-main.c22d6b2c.js",
+    "runtime-main.js.map": "/connect-hooks-demo/static/js/runtime-main.c22d6b2c.js.map",
+    "static/js/2.b88e7c55.chunk.js": "/connect-hooks-demo/static/js/2.b88e7c55.chunk.js",
+    "static/js/2.b88e7c55.chunk.js.map": "/connect-hooks-demo/static/js/2.b88e7c55.chunk.js.map",
+    "index.html": "/connect-hooks-demo/index.html",
+    "static/css/main.56bfc3b2.chunk.css.map": "/connect-hooks-demo/static/css/main.56bfc3b2.chunk.css.map",
+    "static/js/2.b88e7c55.chunk.js.LICENSE.txt": "/connect-hooks-demo/static/js/2.b88e7c55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c22d6b2c.js",
+    "static/js/2.b88e7c55.chunk.js",
+    "static/css/main.56bfc3b2.chunk.css",
+    "static/js/main.aa0febbd.chunk.js"
+  ]
+}
